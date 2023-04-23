@@ -3,10 +3,10 @@
 SESSION_START();
 
 //create a pre defined username and password since we do no have database
-$acc_username = "Argie";
-$acc_password = "Baslot";
-$acc_fullname = "Argie Baslot";
-$acc_address = "Bohol PH";
+$acc_username = "KailaMoreno";
+$acc_password = "Moreno06";
+$acc_fullname = "Kaila Rey Moreno";
+$acc_address = "Marinduque PH";
 //check the current url for the redirection later
 $url_add = "http://".$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
 
